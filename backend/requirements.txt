@@ -1,0 +1,8 @@
+boto3
+pypdf
+langchain
+streamlit
+faiss-cpu
+langchain_community
+python-dotenv
+

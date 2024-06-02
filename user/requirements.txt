@@ -1,0 +1,7 @@
+#requirements.txt
+boto3
+langchain
+streamlit
+faiss-cpu
+langchain_community
+python-dotenv
